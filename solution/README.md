@@ -20,6 +20,26 @@ It ingests lead CSV files and call-event JSONL files, validates and normalizes i
 - Dataset and workflow schemas provided with the assignment
 - Environment variables configured using `.env`
 
+## Screenshots
+
+### Screenshot 1
+<img src="../Screenshots/Screenshot%20(462).png" width="700">
+
+### Screenshot 2
+<img src="../Screenshots/Screenshot%20(463).png" width="700">
+
+### Screenshot 3
+<img src="../Screenshots/Screenshot%20(464).png" width="700">
+
+### Screenshot 4
+<img src="../Screenshots/Screenshot%20(465).png" width="700">
+
+### Screenshot 5
+<img src="../Screenshots/Screenshot%20(466).png" width="700">
+
+### Screenshot 6
+<img src="../Screenshots/Screenshot%20(467).png" width="700">
+
 ## Setup
 
 Run these commands from the repository root.
